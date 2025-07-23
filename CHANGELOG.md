@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.8
+
+[compare changes](https://github.com/shba007/flip-a-coin/compare/v0.0.7...v0.0.8)
+
+### 🚀 Enhancements
+
+- Add step to show files after build in deploy workflow ([d0382be](https://github.com/shba007/flip-a-coin/commit/d0382be))
+
+### ❤️ Contributors
+
+- Shba007 ([@shba007](https://github.com/shba007))
+
 ## v0.0.7
 
 [compare changes](https://github.com/shba007/flip-a-coin/compare/v0.0.6...v0.0.7)
