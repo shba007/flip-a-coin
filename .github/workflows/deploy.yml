@@ -38,6 +38,11 @@ jobs:
           relative_project_path: ./
           cache: true
 
+      - name: Show Files
+        run: |
+          echo ${{ steps.export.outputs.archive_directory }}
+          ls -a
+
       - name: ⚙️ Setup Pages
         id: pages
         uses: actions/configure-pages@v5
