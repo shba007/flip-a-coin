@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.3
+
+[compare changes](https://github.com/shba007/flip-a-coin/compare/v0.0.2...v0.0.3)
+
+### 🩹 Fixes
+
+- Add step to copy build artifacts to dist folder ([b10b112](https://github.com/shba007/flip-a-coin/commit/b10b112))
+
+### ❤️ Contributors
+
+- Shba007 ([@shba007](https://github.com/shba007))
+
 ## v0.0.2
 
 [compare changes](https://github.com/shba007/flip-a-coin/compare/v0.0.1...v0.0.2)
