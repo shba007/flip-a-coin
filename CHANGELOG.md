@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.10
+
+[compare changes](https://github.com/shba007/flip-a-coin/compare/v0.0.9...v0.0.10)
+
+### 🩹 Fixes
+
+- Enhance file listing in deployment workflow ([845fb70](https://github.com/shba007/flip-a-coin/commit/845fb70))
+
+### ❤️ Contributors
+
+- Shba007 ([@shba007](https://github.com/shba007))
+
 ## v0.0.9
 
 [compare changes](https://github.com/shba007/flip-a-coin/compare/v0.0.8...v0.0.9)
