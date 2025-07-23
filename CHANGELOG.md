@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.2
+
+[compare changes](https://github.com/shba007/flip-a-coin/compare/v0.0.1...v0.0.2)
+
+### 🩹 Fixes
+
+- Update workflow name to Godot CD and add step to create dist folder ([1d6d63a](https://github.com/shba007/flip-a-coin/commit/1d6d63a))
+
+### ❤️ Contributors
+
+- Shba007 ([@shba007](https://github.com/shba007))
+
 ## v0.0.1
 
 
