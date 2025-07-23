@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.4
+
+[compare changes](https://github.com/shba007/flip-a-coin/compare/v0.0.3...v0.0.4)
+
+### 🚀 Enhancements
+
+- Add Docker configuration and Nginx setup for web deployment ([26a1b59](https://github.com/shba007/flip-a-coin/commit/26a1b59))
+
+### ❤️ Contributors
+
+- Shba007 ([@shba007](https://github.com/shba007))
+
 ## v0.0.3
 
 [compare changes](https://github.com/shba007/flip-a-coin/compare/v0.0.2...v0.0.3)
