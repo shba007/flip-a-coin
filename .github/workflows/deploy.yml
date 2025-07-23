@@ -39,6 +39,11 @@ jobs:
           presets_to_export: Web
           use_preset_export_path: true
 
+      - name: 📂 Flatten Web build into dist/web
+        run: |
+          mkdir -p dist/web
+          mv Web/* dist/web/
+
       - name: ⚙️ Setup Pages
         id: pages
         uses: actions/configure-pages@v5
