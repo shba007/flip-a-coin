@@ -1,4 +1,4 @@
-name: Nuxt CD
+name: Godot CD
 run-name: ${{ github.ref_name }}
 
 permissions:
@@ -28,6 +28,9 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
+      - name: 📦 Make dist folder
+        run: mkdir -p dist/web
 
       - name: 🛠️ Setup godot and build
         uses: firebelley/godot-export@v6.0.0
