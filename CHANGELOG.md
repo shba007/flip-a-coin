@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.6
+
+[compare changes](https://github.com/shba007/flip-a-coin/compare/v0.0.5...v0.0.6)
+
+### 🩹 Fixes
+
+- Add step to flatten Web build into dist/web directory ([8cb8554](https://github.com/shba007/flip-a-coin/commit/8cb8554))
+
+### ❤️ Contributors
+
+- Shba007 ([@shba007](https://github.com/shba007))
+
 ## v0.0.5
 
 [compare changes](https://github.com/shba007/flip-a-coin/compare/v0.0.4...v0.0.5)
