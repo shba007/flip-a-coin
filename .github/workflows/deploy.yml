@@ -30,19 +30,13 @@ jobs:
           fetch-depth: 0
 
       - name: 🛠️ Setup godot and build
+        id: export
         uses: firebelley/godot-export@v6.0.0
         with:
           godot_executable_download_url: https://github.com/godotengine/godot/releases/download/4.4.1-stable/Godot_v4.4.1-stable_linux.x86_64.zip
           godot_export_templates_download_url: https://github.com/godotengine/godot/releases/download/4.4.1-stable/Godot_v4.4.1-stable_export_templates.tpz
           relative_project_path: ./
           cache: true
-          presets_to_export: Web
-          use_preset_export_path: true
-
-      - name: 📂 Flatten Web build into dist/web
-        run: |
-          mkdir -p dist/web
-          mv Web/* dist/web/
 
       - name: ⚙️ Setup Pages
         id: pages
@@ -51,7 +45,7 @@ jobs:
       - name: ⚙️ Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: dist/web
+          path: ${{ steps.export.outputs.archive_directory }}
 
   deploy-web:
     needs: build-web
