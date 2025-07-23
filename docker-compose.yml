@@ -1,0 +1,7 @@
+name: 'flip-a-coin-dev'
+services:
+  web:
+    build: .
+    restart: on-failure:3
+    ports:
+      - 3600:8080
