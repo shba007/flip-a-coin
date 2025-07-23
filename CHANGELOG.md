@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.9
+
+[compare changes](https://github.com/shba007/flip-a-coin/compare/v0.0.8...v0.0.9)
+
+### 🚀 Enhancements
+
+- Add verbose logging and preset export path to Godot build step ([0a9caae](https://github.com/shba007/flip-a-coin/commit/0a9caae))
+
+### ❤️ Contributors
+
+- Shba007 ([@shba007](https://github.com/shba007))
+
 ## v0.0.8
 
 [compare changes](https://github.com/shba007/flip-a-coin/compare/v0.0.7...v0.0.8)
