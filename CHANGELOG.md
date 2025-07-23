@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.11
+
+[compare changes](https://github.com/shba007/flip-a-coin/compare/v0.0.10...v0.0.11)
+
+### 🩹 Fixes
+
+- Update deployment paths in GitHub Actions workflow and export presets ([30c8a7f](https://github.com/shba007/flip-a-coin/commit/30c8a7f))
+
+### ❤️ Contributors
+
+- Shba007 ([@shba007](https://github.com/shba007))
+
 ## v0.0.10
 
 [compare changes](https://github.com/shba007/flip-a-coin/compare/v0.0.9...v0.0.10)
