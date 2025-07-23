@@ -3,6 +3,7 @@ run-name: ${{ github.ref_name }}
 
 permissions:
   contents: write
+  pages: write
   packages: write
   attestations: write
   id-token: write
