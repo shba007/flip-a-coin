@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.7
+
+[compare changes](https://github.com/shba007/flip-a-coin/compare/v0.0.6...v0.0.7)
+
+### 🩹 Fixes
+
+- Streamline Web build process and update artifact upload path ([2093b26](https://github.com/shba007/flip-a-coin/commit/2093b26))
+
+### ❤️ Contributors
+
+- Shba007 ([@shba007](https://github.com/shba007))
+
 ## v0.0.6
 
 [compare changes](https://github.com/shba007/flip-a-coin/compare/v0.0.5...v0.0.6)
