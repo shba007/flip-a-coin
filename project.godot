@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="Flip a Coin"
+config/version="0.0.0"
 run/main_scene="uid://p2jwn2rs34b5"
 config/features=PackedStringArray("4.4", "GL Compatibility")
 boot_splash/bg_color=Color(0, 0, 0, 1)
