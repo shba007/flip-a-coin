@@ -40,13 +40,6 @@ jobs:
           verbose: true
           use_preset_export_path: true
 
-      - name: Show Files
-        run: |
-          echo ${{ steps.export.outputs.archive_directory }}
-          ls -a
-          ls dist -a
-          find dist -maxdepth 3 -print
-
       - name: ⚙️ Setup Pages
         id: pages
         uses: actions/configure-pages@v5
@@ -54,7 +47,7 @@ jobs:
       - name: ⚙️ Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ${{ steps.export.outputs.archive_directory }}
+          path: dist/Web
 
   deploy-web:
     needs: build-web
