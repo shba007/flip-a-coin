@@ -44,6 +44,8 @@ jobs:
         run: |
           echo ${{ steps.export.outputs.archive_directory }}
           ls -a
+          ls dist -a
+          find dist -maxdepth 3 -print
 
       - name: ⚙️ Setup Pages
         id: pages
