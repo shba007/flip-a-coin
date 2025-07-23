@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.5
+
+[compare changes](https://github.com/shba007/flip-a-coin/compare/v0.0.4...v0.0.5)
+
+### 🩹 Fixes
+
+- Remove unnecessary steps in GitHub Actions workflow for web deployment ([18e8f94](https://github.com/shba007/flip-a-coin/commit/18e8f94))
+
+### ❤️ Contributors
+
+- Shba007 ([@shba007](https://github.com/shba007))
+
 ## v0.0.4
 
 [compare changes](https://github.com/shba007/flip-a-coin/compare/v0.0.3...v0.0.4)
