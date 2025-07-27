@@ -6,7 +6,7 @@
 
 <!-- <p align="center">
   <a href="https://redcatpictures.betteruptime.com">
-    <img src="https://uptime.betterstack.com/status-badges/v3/monitor/10v2y.svg" alt="Better Stack Badge">
+	<img src="https://uptime.betterstack.com/status-badges/v3/monitor/10v2y.svg" alt="Better Stack Badge">
   </a>
 </p> -->
 
@@ -15,15 +15,13 @@
 > Flip a Coin
 
 - 🚀 PWA
-- ✋ Push Notification
 - 🐋 Containerized
 - 🪄 CI/CD (Github Action)
-- 📐 Analytics
 
 ## License
 
-Published under the [MIT](https://github.com/Algostract/red-cat-pictures/blob/main/LICENSE) license.
+Published under the [GNU GPLv3](https://github.com/shba007/flip-a-coin/blob/main/LICENSE) license.
 <br><br>
-<a href="https://github.com/Algostract/red-cat-pictures/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=Algostract/red-cat-pictures" />
+<a href="https://github.com/shba007/flip-a-coin/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=shba007/flip-a-coin" />
 </a>

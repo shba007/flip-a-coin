@@ -1,6 +1,10 @@
 # Godot 4+ specific ignores
 .godot/
 .nomedia
+/android/
+
+# Godot dev/build outputs
+dist
 
 # Godot-specific ignores
 .import/
@@ -15,5 +19,6 @@ export_credentials.cfg
 data_*/
 mono_crash.*.json
 
-# Godot dev/build outputs
-dist
+addons/*/linux
+addons/*/macos
+addons/*/win64
