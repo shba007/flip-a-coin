@@ -1,6 +1,26 @@
 # Changelog
 
 
+## v0.0.12
+
+[compare changes](https://github.com/shba007/flip-a-coin/compare/v0.0.11...v0.0.12)
+
+### 🚀 Enhancements
+
+- Update project structure and assets, including new icons and model integration ([53066f6](https://github.com/shba007/flip-a-coin/commit/53066f6))
+
+### 🩹 Fixes
+
+- [skip ci] add missing permissions for GitHub Pages in workflow ([198e8d9](https://github.com/shba007/flip-a-coin/commit/198e8d9))
+
+### 🏡 Chore
+
+- Add plugins ([fb6dc40](https://github.com/shba007/flip-a-coin/commit/fb6dc40))
+
+### ❤️ Contributors
+
+- Shba007 ([@shba007](https://github.com/shba007))
+
 ## v0.0.11
 
 [compare changes](https://github.com/shba007/flip-a-coin/compare/v0.0.10...v0.0.11)
